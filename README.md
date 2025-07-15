@@ -25,7 +25,7 @@ This is a blog preview card design.
 ### Links
 
 - Solution URL: (https://github.com/Mohamed-Abdelreheem/Blog-preview-card-challenge)
-- Live Site URL: (https://mohamed-abdelreheem.github.io/product-preview-card/)
+- Live Site URL: (https://mohamed-abdelreheem.github.io/Blog-preview-card-challenge/)
 
 
 ### Built with
